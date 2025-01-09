@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'mydatabase',
         'USER': 'mydatabaseuser',
         'PASSWORD': 'mypassword',
-        'HOST': 'myrdshost.rds.amazonaws.com',
+        'HOST': 'backend.cham4qc4kymw.us-east-1.rds.amazonaws.com,
         'PORT': '5432',
     }
 }
